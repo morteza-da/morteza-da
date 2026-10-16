@@ -46,11 +46,6 @@ My doctoral research investigates a multimodal architecture combining **Xception
 - **Introduction to Computer Vision and Image Processing** — IBM · Dec 2022
 - **Introduction to Self-Driving Cars** — University of Toronto · Aug 2021
 
-### Automotive Technical Qualifications
-
-- **Automotive Electrical Technician** — Iran Technical & Vocational Training Organization · Dec 2012
-- **Automotive Repair Technician – Passenger Vehicles** — Iran Technical & Vocational Training Organization · Jan 2011
-
 ## Research Collaboration
 
 I welcome discussions about postdoctoral opportunities and research collaborations involving autonomous systems, multimodal sensor fusion, intelligent vehicles, and trustworthy machine learning.
