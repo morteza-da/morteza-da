@@ -1,6 +1,6 @@
 # Morteza Aghamohammadi, PhD
 
-**Autonomous Driving | Deep Learning | Camera–LiDAR Sensor Fusion | Intelligent Vehicle Systems**
+**AI & Data Science | Deep Learning | Autonomous Driving | Intelligent Systems**
 
 📍 Toronto, Canada · [LinkedIn](https://www.linkedin.com/in/morteza-a/) · [ORCID](https://orcid.org/0009-0001-4837-2298)
 
