@@ -34,6 +34,23 @@ My doctoral research investigates a multimodal architecture combining **Xception
 **Engineering and simulation:** SolidWorks, CATIA, AutoCAD, ADAMS  
 **Analytics:** Power BI, Tableau
 
+## Professional Development & Certifications
+
+### Data Science, AI & Research Methods
+
+- **The Comprehensive Course of Data Science (Professional)** — University of Tehran · Sep 2021
+- **Introduction to Machine Learning** — Duke University (Coursera) · May 2021
+- **Introduction to Statistics** — Stanford Online · Jun 2021
+- **Tools for Data Science** — IBM · Oct 2023
+- **What is Data Science?** — IBM · Jan 2023
+- **Introduction to Computer Vision and Image Processing** — IBM · Dec 2022
+- **Introduction to Self-Driving Cars** — University of Toronto · Aug 2021
+
+### Automotive Technical Qualifications
+
+- **Automotive Electrical Technician** — Iran Technical & Vocational Training Organization · Dec 2012
+- **Automotive Repair Technician – Passenger Vehicles** — Iran Technical & Vocational Training Organization · Jan 2011
+
 ## Research Collaboration
 
 I welcome discussions about postdoctoral opportunities and research collaborations involving autonomous systems, multimodal sensor fusion, intelligent vehicles, and trustworthy machine learning.
